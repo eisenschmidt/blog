@@ -2,7 +2,7 @@ title: Yannick's Blog
 email: yannick.eisenschmidt@gmail.com
 description: Das ist mein Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.eisenschmidt.dev"
 twitter_username: jekyllrb
 github_username:  eisenschmidt
 
