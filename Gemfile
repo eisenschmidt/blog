@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.2"
-gem "minima", "~> 2.5"
+gem "jekyll"
+gem "minima"
 
 group :jekyll_plugins do
-  gem "jekyll-asciidoc", "~> 3.0"
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-asciidoc"
+  gem "jekyll-feed"
 end
