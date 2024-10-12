@@ -11,6 +11,7 @@ plugins:
   - jekyll-feed
 
 exclude:
+  - .github
   - .gitignore
   - .git
   - Dockerfile
