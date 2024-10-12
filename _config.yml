@@ -9,3 +9,9 @@ github_username:  eisenschmidt
 theme: minima
 plugins:
   - jekyll-feed
+
+exclude:
+  - .gitignore
+  - .git
+  - Dockerfile
+  - local_build.sh
