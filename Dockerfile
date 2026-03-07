@@ -4,5 +4,5 @@ WORKDIR /opt
 COPY . /opt
 RUN bundle install && jekyll build
 
-FROM nginx:1.27
+FROM nginx:1.29
 COPY --from=builder /opt/_site /usr/share/nginx/html 
