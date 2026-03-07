@@ -1,4 +1,4 @@
-FROM ruby:3.3 AS builder
+FROM ruby:4.0 AS builder
 RUN gem install bundler
 WORKDIR /opt
 COPY . /opt
