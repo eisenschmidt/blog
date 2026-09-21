@@ -2,7 +2,12 @@
 layout: post
 title: Computer Science Master Semester 2
 date: 2026-09-21 13:05:00 +0000
-categories: ala lt cv2 ml master
+categories: master
+tags:
+  - ala
+  - lt
+  - cv2
+  - ml
 abbreviations:
   UHH: University of Hamburg
   KNN: k-nearest neighbors

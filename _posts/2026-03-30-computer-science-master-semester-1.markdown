@@ -2,7 +2,11 @@
 layout: post
 title: Computer Science Master Semester 1
 date: 2026-03-30 19:12:00 +0000
-categories: oml nlp algorithms master
+categories: master
+tags:
+  - oml
+  - nlp
+  - algorithms
 ---
 Today marks the end of my first semester back at university! Last year I decided to go back to studying in order to do my Masters degree in computer science. It had been an exciting time period as I need to get used to working and studying part time again. I just wanted to use this opportunity to share what i have actually learned now that the exams are over and I will inevitably forget about most of the less relevant stuff. I took three courses. Each of which has its own little section.
 
