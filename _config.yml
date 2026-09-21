@@ -14,5 +14,10 @@ exclude:
   - .github
   - .gitignore
   - .git
-  - Dockerfile
-  - local_build.sh
+  - .envrc
+  - .direnv
+  - flake.nix
+  - flake.lock
+  - Gemfile
+  - Gemfile.lock
+  - bin

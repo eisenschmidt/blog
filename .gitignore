@@ -1,1 +1,3 @@
-/blog/_site
+/_site
+/.bundle
+/.direnv
